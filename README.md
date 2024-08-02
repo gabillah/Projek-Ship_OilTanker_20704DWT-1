@@ -5,10 +5,10 @@ NRP: 0322040051<br>
 Link: https://github.com/gabillah/Projek_Ship_LPdanGA_20704DWT_OilTanker
 
 Kode standard yang digunakan:
-- 
+- <br>
 
 Referensi:
-- 
+- <br>
 
 Software yang digunakan:
 - 
