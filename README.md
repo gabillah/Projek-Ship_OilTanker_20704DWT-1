@@ -4,14 +4,15 @@ NRP: 0322040051<br>
 
 Link: https://github.com/gabillah/Projek-Ship_OilTanker_20704DWT-1
 
-## Hasil perhitungan
+## Hasil perhitungan:
 Type kapal: 20704 DWT (handymax) Product Oil Tanker<br>
 LOA: 145.53 meter<br>
+LWL: 142.48 meter<br>
 LPP: 137 meter<br>
-B: 23.7 meter<br>
-H: 13.35 meter<br>
-T: 9.947 meter<br>
-Vs: 16.3 Knots<br>
+Breadth: 23.7 meter<br>
+Height: 13.35 meter<br>
+Draught: 9.947 meter<br>
+Kecepatan dinas: 16.3 Knots<br>
 Desain error: 
 
 
