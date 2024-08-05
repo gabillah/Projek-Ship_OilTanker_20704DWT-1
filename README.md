@@ -1,4 +1,4 @@
-# Judul topic: Portofolio projek Ship Lines Plan dan General Arrangement, 20704 DWT (handymax) Product Oil Tanker, MTM Antwerp.
+# Judul topik: Portofolio projek Ship Lines Plan dan General Arrangement, 20704 DWT (handymax) Product Oil Tanker, MTM Antwerp.
 Nama: Daffa Gabillah Maulana Gapur<br>
 NRP: 0322040051<br>
 
